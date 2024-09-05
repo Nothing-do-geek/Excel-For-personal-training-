@@ -1,2 +1,2 @@
 # Excel-For-personal-training-
-For personal training
+Basically for EGE and personal training
